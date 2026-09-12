@@ -2,7 +2,7 @@
 
 🧬 I'm Hel1X, you can call me Hel.
 
-I started learning to code independently. I am currently in my last year of high school. I plan to major in Computer Science, then specialize in web development, you can check out my tech stack below!
+I am currently in my last year of high school. I plan to major in Computer Science, then specialize in web development. I started learning to code independently in 2025, you can check out my tech stack below!
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
