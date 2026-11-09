@@ -1,6 +1,6 @@
 # Hi theree!
 
-I'm Hel
+You can call me Hel! (short for Hel1X)
 
 I'm currently in my last year of high school, and will be majoring in Computer Science. I started learning to code independently as a hobby, you can check out my tech stack below!
 
@@ -12,4 +12,4 @@ I'm currently in my last year of high school, and will be majoring in Computer S
 ### Fun Facts:<br>
   • Hobbies: Listening to music, playing games, coding, & graphic design.<br>
   • I'm a libra<br>
-  • I hate mushrooms
+  • I love synth music!
